@@ -2,5 +2,5 @@
 
 ![error](./images/netty-in-action.jpg)  
 
-[manning](https://www.manning.com/books/netty-in-action)
+[manning](https://www.manning.com/books/netty-in-action)  
 [YES24](http://www.yes24.com/Product/Goods/27893482)
